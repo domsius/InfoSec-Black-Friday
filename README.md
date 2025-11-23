@@ -226,6 +226,11 @@ https://www.zeropointsecurity.co.uk/courses  \
 Disconnect from VPNs before purchase or the discount may not apply; does not stack with PPP \
 Deal valid until 1st December 2025 
 
+**Modernsecurity.io** - AI Security and Application Security Trainings :new: \
+https://www.modernsecurity.io/courses/ai-security-certification \
+15% off with code -  `BLACKFRIDAY-15-MSECAI` \
+Deal valid: 23rd November - 15th December
+
 ## Exams
 
 **The SecOps Group** - Pentesting Exams \
