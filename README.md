@@ -1,6 +1,11 @@
 
 # InfoSec Black Friday Deals ~ "In Honor of 0x90n" 2025 Edition
 
+EDIT: 
+He is back :) So lets work on his repo again!
+https://github.com/0x90n/InfoSec-Black-Friday
+
+
 ## This is a fork of 0x90n’s work. I hope he is doing well — therefore I am continuing his text here.
 
 All the deals for InfoSec related software/tools this coming Black Friday. 
